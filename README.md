@@ -21,6 +21,10 @@ A parte mais desafiadora, na realidade, foi montar um app bonito e com elementos
 
 Para configurar o ambiente de desenvolvimento Laravel, siga o [passo a passo oficial](https://laravel.com/docs/10.x#sail-on-windows).
 
+## .ENV (Variáveis de ambiente)
+
+Copiar o arquivo .env.example e renomea-lo para .env
+
 ## Comandos
 
 ### Baixar dependências
@@ -33,6 +37,12 @@ composer install
 
 ```bash
 php artisan migrate
+```
+
+### Gerar a chave da aplicação
+
+```bash
+php artisan key:generate
 ```
 
 ### Ativar link simbólico
