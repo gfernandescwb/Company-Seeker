@@ -10,7 +10,8 @@ Algumas das tecnologias (principais) usadas foram:
 ## Requisitos
 
  - PHP >= 7.4
- - Extensões PHP necessárias (sqlite3, OpenSSL, PDO, Mbstring, Tokenizer, XML, Ctype, JSON, etc.)
+ - Extensões PHP necessárias para rodar uma aplicação Larvel
+ - Extensões adicionais (php.ini) extension=sqlite3 e extension=pdo_sqlite
  - Composer para gerenciamento de pacotes PHP
 
 ## Desafios
