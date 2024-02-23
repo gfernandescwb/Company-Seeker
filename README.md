@@ -26,7 +26,7 @@ Para configurar o ambiente de desenvolvimento Laravel, siga o [passo a passo ofi
 ### Baixar dependências
 
 ```bash
-composter install
+composer install
 ```
 
 ### Rodar as migrations
