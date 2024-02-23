@@ -10,7 +10,7 @@ Algumas das tecnologias (principais) usadas foram:
 ## Requisitos
 
  - PHP >= 7.4
- - Extensões PHP necessárias (por exemplo, OpenSSL, PDO, Mbstring, Tokenizer, XML, Ctype, JSON, etc.)
+ - Extensões PHP necessárias (sqlite3, OpenSSL, PDO, Mbstring, Tokenizer, XML, Ctype, JSON, etc.)
  - Composer para gerenciamento de pacotes PHP
 
 ## Desafios
