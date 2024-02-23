@@ -23,7 +23,7 @@ Para configurar o ambiente de desenvolvimento Laravel, siga o [passo a passo ofi
 
 ## .ENV (Variáveis de ambiente)
 
-Copiar o arquivo .env.example e renomea-lo para .env
+**Copiar o arquivo .env.example e renomea-lo para .env**
 
 ## Comandos
 
